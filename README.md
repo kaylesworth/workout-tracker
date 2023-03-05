@@ -3,11 +3,12 @@ A workout tracker created in obsidian to control your data around exercises and 
 
 I got tired of trying to find a workout tracker that worked for me, whether it was a paid subscription or my data being stored somewhere I couldn't control. So I finally created one on my own in obsidian
 
-Start 
+The dataview tables should be configured to your taste, as this is just an example repo they are just pulling the data itself
 
-You can create your own exercises with notes and images attached
-
-You can create your own workouts using the exercises created
+## Features
+- Create exercises with notes and images if desired
+- Create workout routines and attach created exercises
+- Log a workout and exercises to track progression
 
 ## Requirements
 - Obsidian
@@ -17,7 +18,7 @@ You can create your own workouts using the exercises created
 	- [Templater](https://github.com/SilentVoid13/Templater)
 
 ## Example
-
+1. Download the repo and open as a vault in Obsidian
 1. Start from` _Homepage.md`
 2. Two buttons available at the top `Create Workout` and `Create Exercise`
 3. Create an exercise by inputting the name and selecting the primary muscle group via the prompt
