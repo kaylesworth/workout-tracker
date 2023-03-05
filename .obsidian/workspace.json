@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "835abdc6e7db6b87",
+        "id": "cbd2cb9b5686fd4b",
         "type": "tabs",
         "children": [
           {
-            "id": "9b5858b319b7f05e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Homepage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c3a55a19b5df89f",
+            "id": "a8a53536e1a93a0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,35 +126,42 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6c3a55a19b5df89f",
+  "active": "a8a53536e1a93a0e",
   "lastOpenFiles": [
     "_Homepage.md",
-    "README.md",
-    "README.md",
-    "Readme.md",
-    "_templates/create-workout.md",
-    "_templates/create-workout-record.md",
-    "_templates/create-exercise.md",
-    "_templates/create-exercise-record.md",
-    "_templates",
-    "_database/workouts/leg-day.md",
-    "_database/workouts/get-swole.md",
     "_database/workout-records/leg-day-2023-03-05-15.06.md",
     "_database/workout-records/get-swole-2023-03-05-15.14.md",
+    "README.md",
+    "_database/workouts/get-swole.md",
+    "_assets/Pasted image 20230305153802.png",
+    "_assets/Pasted image 20230305153729.png",
+    "_assets/Pasted image 20230305153724.png",
+    "_assets/Pasted image 20230305153713.png",
+    "_database/workouts/leg-day.md",
+    "_assets/Pasted image 20230305153553.png",
+    "_database/exercises/bench-press.md",
+    "_assets/Pasted image 20230305153527.png",
+    "_database/exercise-records/bench-press-2023-03-05-15.15.md",
+    "_templates/create-exercise.md",
+    "_assets/Pasted image 20230305153448.png",
+    "_templates/create-workout-record.md",
+    "_templates/create-workout.md",
+    "_templates/create-exercise-record.md",
+    "_assets/Pasted image 20230305153217.png",
+    "Readme.md",
+    "_templates",
     "_database/exercises/rowing.md",
     "_database/exercises/lunges.md",
     "_database/exercises/leg-press.md",
     "_database/exercises/lat-pulldown.md",
     "_database/exercises/calf-raises.md",
     "_database/exercises/bicep-curl.md",
-    "_database/exercises/bench-press.md",
     "_database/exercise-records/rowing-2023-03-05-15.16.md",
     "_database/exercise-records/rowing-2023-03-05-15.09.md",
     "_database/exercise-records/lunges-2023-03-05-15.09.md",
     "_database/exercise-records/leg-press-2023-03-05-15.09.md",
     "_database/exercise-records/lat-pulldown-2023-03-05-15.16.md",
     "_database/exercise-records/calf-raises-2023-03-05-15.08.md",
-    "_database/exercise-records/bicep-curl-2023-03-05-15.16.md",
     "_database/workouts",
     "_database/workout-records",
     "_database/exercises",

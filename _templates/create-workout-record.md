@@ -37,7 +37,6 @@ action create-exercise-record
 templater true
 ```
 
-^button-hge2
 
 ## Todays Workout
 

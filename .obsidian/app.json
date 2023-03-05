@@ -4,5 +4,6 @@
   "userIgnoreFilters": [
     "_assets/",
     "_templates/"
-  ]
+  ],
+  "showInlineTitle": false
 }

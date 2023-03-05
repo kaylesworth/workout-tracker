@@ -1,3 +1,5 @@
+# Homepage
+
 ```button
 name Create Workout
 type note(temp-workout) template
@@ -43,4 +45,4 @@ type note(temp-log-workout) template
 action create-workout-record
 templater true
 ```
-^button-k1z4
+
