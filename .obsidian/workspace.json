@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cbd2cb9b5686fd4b",
+        "id": "33681e8ad065494a",
         "type": "tabs",
         "children": [
           {
-            "id": "a8a53536e1a93a0e",
+            "id": "f20327116183668c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 546.5
   },
   "right": {
     "id": "947be2e4359bb633",
@@ -126,28 +126,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a8a53536e1a93a0e",
+  "active": "f20327116183668c",
   "lastOpenFiles": [
+    "README.md",
+    "_assets/exercise-2-screenshot.png",
+    "_assets/exercise-screenshot.png",
+    "_assets/workout-record-screenshot.png",
+    "_assets/exercise-record-screenshot.png",
+    "_assets/workout-record-2-screenshot.png",
+    "_assets/workout-screenshot.png",
+    "_assets/homepage-screenshot.png",
+    "_assets/graph-screenshot.png",
     "_Homepage.md",
     "_database/workout-records/leg-day-2023-03-05-15.06.md",
     "_database/workout-records/get-swole-2023-03-05-15.14.md",
-    "README.md",
     "_database/workouts/get-swole.md",
-    "_assets/Pasted image 20230305153802.png",
-    "_assets/Pasted image 20230305153729.png",
-    "_assets/Pasted image 20230305153724.png",
-    "_assets/Pasted image 20230305153713.png",
     "_database/workouts/leg-day.md",
-    "_assets/Pasted image 20230305153553.png",
     "_database/exercises/bench-press.md",
-    "_assets/Pasted image 20230305153527.png",
     "_database/exercise-records/bench-press-2023-03-05-15.15.md",
     "_templates/create-exercise.md",
-    "_assets/Pasted image 20230305153448.png",
     "_templates/create-workout-record.md",
     "_templates/create-workout.md",
     "_templates/create-exercise-record.md",
-    "_assets/Pasted image 20230305153217.png",
     "Readme.md",
     "_templates",
     "_database/exercises/rowing.md",

@@ -32,29 +32,29 @@ You can create your own workouts using the exercises created
 ## Screenshots
 
 ### Home Page
-![[Pasted image 20230305153448.png]]
+![[homepage-screenshot.png]]
 
 
 ### Exercise Record
-![[Pasted image 20230305153527.png]]
+![[exercise-record-screenshot.png]]
 
 
 ### Exercise
-![[Pasted image 20230305153553.png]]
+![[exercise-screenshot.png]]
 
 ### Workout Record
 
 First workout recorded
-![[Pasted image 20230305153724.png]]
+![[workout-record-screenshot.png]]
 
 Second workout recorded with histortical data to reference
-![[Pasted image 20230305153729.png]]
+![[workout-record-2-screenshot.png]]
 
 
 
 ### Workout
-![[Pasted image 20230305153713.png]]
+![[workout-screenshot.png]]
 
 
 ### Graph View
-![[Pasted image 20230305153217.png]]
+![[graph-screenshot.png]]
