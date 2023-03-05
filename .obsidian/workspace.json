@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "c06705b2a1610118",
+    "type": "split",
+    "children": [
+      {
+        "id": "835abdc6e7db6b87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b5858b319b7f05e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Homepage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba48f9af8e5cffe6",
+    "type": "split",
+    "children": [
+      {
+        "id": "86a453fabf0a5e9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14f8db210fb45452",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "866e81da2b5a9f61",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "947be2e4359bb633",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac6a8637b643d4d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b854f7a7f981c2d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Homepage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d853b5f29d4e686d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_Homepage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab28f2914505c88e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "9b5858b319b7f05e",
+  "lastOpenFiles": [
+    "Readme.md",
+    "_Homepage.md",
+    "_templates/create-workout.md",
+    "_templates/create-workout-record.md",
+    "_templates/create-exercise.md",
+    "_templates/create-exercise-record.md",
+    "_templates",
+    "_database/workouts/leg-day.md",
+    "_database/workouts/get-swole.md",
+    "_database/workout-records/leg-day-2023-03-05-15.06.md",
+    "_database/workout-records/get-swole-2023-03-05-15.14.md",
+    "_database/exercises/rowing.md",
+    "_database/exercises/lunges.md",
+    "_database/exercises/leg-press.md",
+    "_database/exercises/lat-pulldown.md",
+    "_database/exercises/calf-raises.md",
+    "_database/exercises/bicep-curl.md",
+    "_database/exercises/bench-press.md",
+    "_database/exercise-records/rowing-2023-03-05-15.16.md",
+    "_database/exercise-records/rowing-2023-03-05-15.09.md",
+    "_database/exercise-records/lunges-2023-03-05-15.09.md",
+    "_database/exercise-records/leg-press-2023-03-05-15.09.md",
+    "_database/exercise-records/lat-pulldown-2023-03-05-15.16.md",
+    "_database/exercise-records/calf-raises-2023-03-05-15.08.md",
+    "_database/exercise-records/bicep-curl-2023-03-05-15.16.md",
+    "_database/exercise-records/bench-press-2023-03-05-15.15.md",
+    "_database/workouts",
+    "_database/workout-records",
+    "_database/exercises",
+    "_database/exercise-records",
+    "_database",
+    "_assets"
+  ]
+}
